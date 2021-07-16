@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-# We the web app  at ` https://covid-19-tracker-59a34.web.app/`
+Visit the web app  at  https://covid-19-tracker-59a34.web.app/
 
 ## Available Scripts
 
